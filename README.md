@@ -1,5 +1,5 @@
 # Final Project
-Final Project, Group A, Fundamentals of Programming, Sharif University of Technology, Fall 2020
+Final Project, Group 9, Fundamentals of Programming, Sharif University of Technology, Fall 2020
 
 ## People
 
