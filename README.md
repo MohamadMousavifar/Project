@@ -13,5 +13,5 @@ Roxana Khabbaz-Zadeh Moghaddam
 In Alphabetical Order:
 - Soheil Ahmadi
 - Mohamad Amin Balouchi
-- [Mohamad Mousavifar](https://github.com/MohamadMousavifar)
+- [Mohamad Mahdi Mousavifar](https://github.com/MohamadMousavifar)
 - Amir Hossein Rahimi-Moghaddam
